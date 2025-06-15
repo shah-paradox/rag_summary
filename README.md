@@ -1,5 +1,5 @@
-📄 Document Summarization using Retrieval-Augmented Generation (RAG)
-🧠 Overview
+#📄 Document Summarization using Retrieval-Augmented Generation (RAG)
+#🧠 Overview
 
 This project implements a document summarization system that combines semantic chunking, vector-based retrieval, and large language model (LLM) generation. It aims to generate concise, coherent summaries of long-form documents by intelligently selecting the most relevant context using Retrieval-Augmented Generation (RAG) techniques.
 🎯 Objective
