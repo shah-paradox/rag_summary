@@ -1,8 +1,8 @@
-#📄 Document Summarization using Retrieval-Augmented Generation (RAG)
-#🧠 Overview
+# Document Summarization using Retrieval-Augmented Generation (RAG)
+# Overview
 
 This project implements a document summarization system that combines semantic chunking, vector-based retrieval, and large language model (LLM) generation. It aims to generate concise, coherent summaries of long-form documents by intelligently selecting the most relevant context using Retrieval-Augmented Generation (RAG) techniques.
-🎯 Objective
+# Objective
 
 To develop a summarization pipeline that:
 
@@ -14,7 +14,7 @@ To develop a summarization pipeline that:
 
     Generates a high-quality summary using a pre-trained LLM.
 
-🛠️ Features
+# Features
 1. 📥 Document Ingestion
 
     Supports PDF, TXT, and Markdown file formats.
@@ -63,7 +63,7 @@ To develop a summarization pipeline that:
 
         Similarity scores for retrieved chunks
 
-🧩 Tech Stack
+# Tech Stack
 
     Python
 
@@ -77,7 +77,7 @@ To develop a summarization pipeline that:
 
     Web Interface (Optional): Streamlit / Flask / Gradio
 
-🚀 How to Run
+# How to Run
 
 # Step 1: Clone the repository
 git clone https://github.com/your-username/rag-summarizer.git
@@ -89,7 +89,7 @@ pip install -r requirements.txt
 # Step 3: Launch the app
 python app.py
 
-📂 File Structure
+# File Structure
 
 rag-summarizer/
 │
@@ -102,7 +102,7 @@ rag-summarizer/
 ├── requirements.txt   # Dependencies
 └── README.md          # Project documentation
 
-✅ Future Improvements
+# Future Improvements
 
     Add user feedback loop for summary refinement.
 
@@ -112,6 +112,6 @@ rag-summarizer/
 
     Implement real-time web UI with upload support.
 
-📜 License
+# License
 
 MIT License — Feel free to use, modify, and contribute.
